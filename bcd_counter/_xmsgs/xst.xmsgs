@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="104" delta="new" >"\\sinfoiem\homes\florianfpga\Nouveau dossier\Nouveau dossier\florian2_4\bcd_compteur_test.vhd" Line 17: Cannot find &lt;<arg fmt="%s" index="1">disp_hex_mux</arg>&gt; in library &lt;<arg fmt="%s" index="2">work</arg>&gt;. Please ensure that the library was compiled, and that a library and a use clause are present in the VHDL file.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="32" delta="old" >"\\sinfoiem\homes\florianfpga\Nouveau dossier\Nouveau dossier\florian2_4\bcd_compteur_test.vhd" Line 18: &lt;<arg fmt="%s" index="1">disp_unit</arg>&gt; is already declared in this region.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="104" delta="old" >"\\sinfoiem\homes\florianfpga\Nouveau dossier\Nouveau dossier\florian2_4\bcd_compteur_test.vhd" Line 18: Cannot find &lt;<arg fmt="%s" index="1">bcd_compteur</arg>&gt; in library &lt;<arg fmt="%s" index="2">work</arg>&gt;. Please ensure that the library was compiled, and that a library and a use clause are present in the VHDL file.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"\\sinfoiem\homes\florianfpga\Nouveau dossier\Nouveau dossier\florian2_4\bcd_compteur_test.vhd" Line 19: Syntax error near &quot;<arg fmt="%s" index="1">port</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"\\sinfoiem\homes\florianfpga\Nouveau dossier\Nouveau dossier\florian2_4\bcd_compteur_test.vhd" Line 23: Syntax error near &quot;<arg fmt="%s" index="1">;</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="old" >"\\sinfoiem\homes\florianfpga\Nouveau dossier\Nouveau dossier\florian2_4\bcd_compteur_test.vhd" Line 13: Unit &lt;<arg fmt="%s" index="1">arch</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+
